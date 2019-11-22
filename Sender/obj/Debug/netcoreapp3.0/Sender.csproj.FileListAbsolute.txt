@@ -1,0 +1,13 @@
+F:\Mile\authenticationScheme\Sender\bin\Debug\netcoreapp3.0\Sender.exe
+F:\Mile\authenticationScheme\Sender\obj\Debug\netcoreapp3.0\Sender.csprojAssemblyReference.cache
+F:\Mile\authenticationScheme\Sender\obj\Debug\netcoreapp3.0\Sender.AssemblyInfoInputs.cache
+F:\Mile\authenticationScheme\Sender\obj\Debug\netcoreapp3.0\Sender.AssemblyInfo.cs
+F:\Mile\authenticationScheme\Sender\bin\Debug\netcoreapp3.0\Sender.deps.json
+F:\Mile\authenticationScheme\Sender\bin\Debug\netcoreapp3.0\Sender.runtimeconfig.json
+F:\Mile\authenticationScheme\Sender\bin\Debug\netcoreapp3.0\Sender.runtimeconfig.dev.json
+F:\Mile\authenticationScheme\Sender\bin\Debug\netcoreapp3.0\Sender.dll
+F:\Mile\authenticationScheme\Sender\bin\Debug\netcoreapp3.0\Sender.pdb
+F:\Mile\authenticationScheme\Sender\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+F:\Mile\authenticationScheme\Sender\obj\Debug\netcoreapp3.0\Sender.csproj.CopyComplete
+F:\Mile\authenticationScheme\Sender\obj\Debug\netcoreapp3.0\Sender.dll
+F:\Mile\authenticationScheme\Sender\obj\Debug\netcoreapp3.0\Sender.pdb

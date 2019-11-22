@@ -1,0 +1,13 @@
+F:\Mile\authenticationScheme\Receiver\bin\Debug\netcoreapp3.0\Receiver.exe
+F:\Mile\authenticationScheme\Receiver\obj\Debug\netcoreapp3.0\Receiver.csprojAssemblyReference.cache
+F:\Mile\authenticationScheme\Receiver\obj\Debug\netcoreapp3.0\Receiver.AssemblyInfoInputs.cache
+F:\Mile\authenticationScheme\Receiver\obj\Debug\netcoreapp3.0\Receiver.AssemblyInfo.cs
+F:\Mile\authenticationScheme\Receiver\bin\Debug\netcoreapp3.0\Receiver.deps.json
+F:\Mile\authenticationScheme\Receiver\bin\Debug\netcoreapp3.0\Receiver.runtimeconfig.json
+F:\Mile\authenticationScheme\Receiver\bin\Debug\netcoreapp3.0\Receiver.runtimeconfig.dev.json
+F:\Mile\authenticationScheme\Receiver\bin\Debug\netcoreapp3.0\Receiver.dll
+F:\Mile\authenticationScheme\Receiver\bin\Debug\netcoreapp3.0\Receiver.pdb
+F:\Mile\authenticationScheme\Receiver\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+F:\Mile\authenticationScheme\Receiver\obj\Debug\netcoreapp3.0\Receiver.csproj.CopyComplete
+F:\Mile\authenticationScheme\Receiver\obj\Debug\netcoreapp3.0\Receiver.dll
+F:\Mile\authenticationScheme\Receiver\obj\Debug\netcoreapp3.0\Receiver.pdb
