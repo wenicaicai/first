@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\first\\Sender\\Sender.csproj": {}
+    "C:\\github\\first\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\github\\first\\Sender\\Sender.csproj": {
+    "C:\\github\\first\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\first\\Sender\\Sender.csproj",
-        "projectName": "Sender",
-        "projectPath": "C:\\github\\first\\Sender\\Sender.csproj",
+        "projectUniqueName": "C:\\github\\first\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\github\\first\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\first\\Sender\\obj\\",
+        "outputPath": "C:\\github\\first\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -39,7 +39,15 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461"
           ],
